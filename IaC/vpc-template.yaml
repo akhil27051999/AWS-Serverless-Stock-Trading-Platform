@@ -6,7 +6,7 @@ Parameters:
     Type: String
     Default: '192.168.0.0/16'
     Description: CIDR block for VPC
-  
+   
   WebSubnet1Cidr:
     Type: String
     Default: '192.168.1.0/24'
