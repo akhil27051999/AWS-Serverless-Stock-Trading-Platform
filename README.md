@@ -812,6 +812,11 @@ artillery run load-test.yml
 - ✅ Full-stack cloud-native architecture
 - ✅ Implemented best practices for AWS
 
+## Outcome
+A hybrid deployment model that combines the reliability and repeatability of Infrastructure as Code with the flexibility of manual provisioning, showcasing real-world deployment workflows for a traditional three-tier architecture on AWS.
+
+<img width="1893" height="1021" alt="Screenshot 2025-07-31 024047" src="https://github.com/user-attachments/assets/a9bd5e59-19e4-4891-97aa-74e8510625c6" />
+
 ## Conclusion
 
 This project demonstrates:
