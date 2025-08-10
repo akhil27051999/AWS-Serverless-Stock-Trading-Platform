@@ -8,7 +8,7 @@ Parameters:
     AllowedValues:
       - t3a.small
       - t3a.medium
-    Description: EC2 instance type
+    Description: EC2 instance type 
     
   SubnetId:
     Type: AWS::EC2::Subnet::Id
