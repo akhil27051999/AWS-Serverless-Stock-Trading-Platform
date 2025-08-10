@@ -1,6 +1,6 @@
 import { DynamoDBClient, GetItemCommand } from "@aws-sdk/client-dynamodb";
 
-const ddbClient = new DynamoDBClient({ region: "us-east-1" });
+const ddbClient = new DynamoDBClient({ region: "us-east-1" }); 
 
 export const handler = async (event, context) => {
     try {
