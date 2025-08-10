@@ -1,7 +1,7 @@
 {
   "Comment": "A state machine that does mock stock trading.",
   "StartAt": "Check Stock Value",
-  "States": {
+  "States": { 
     "Check Stock Value": {
       "Type": "Task",
       "Resource": "arn:aws:states:::apigateway:invoke",
