@@ -2,7 +2,7 @@ AWSTemplateFormatVersion: '2010-09-09'
 Description: 'EC2 Instance with Elastic IP and 30GB EBS Volume'
 
 Parameters:
-  InstanceType:
+  InstanceType: 
     Type: String
     Default: t3a.small
     AllowedValues:
