@@ -5,7 +5,7 @@ const client = new SecretsManagerClient();
 
 exports.handler = async (event) => {
   try {
-    const body = JSON.parse(event.body);
+    const body = JSON.parse(event.body); 
     const { symbol, quantity } = body;
 
     if (!symbol || !quantity) {
