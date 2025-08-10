@@ -3,7 +3,7 @@ const API_CONFIG = {
     BASE_API: 'https://dmkxlju409.execute-api.us-east-1.amazonaws.com/prod',
     REGION: 'us-east-1'
 };
-
+ 
 // Your exact endpoints based on your resource paths
 const ENDPOINTS = {
     checkStock: `${API_CONFIG.BASE_API}/check`,
