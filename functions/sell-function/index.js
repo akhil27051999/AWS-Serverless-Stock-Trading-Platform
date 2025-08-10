@@ -1,4 +1,4 @@
-import AWS from "aws-sdk";
+import AWS from "aws-sdk"; 
 import crypto from "crypto";
 
 const dynamodb = new AWS.DynamoDB.DocumentClient();
