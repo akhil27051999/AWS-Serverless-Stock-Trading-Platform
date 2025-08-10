@@ -1,7 +1,7 @@
 class StockManager {
     constructor() {
         this.apiBaseUrl = 'https://dmkxlju409.execute-api.us-east-1.amazonaws.com/prod';
-        this.portfolio = [];
+        this.portfolio = []; 
         this.balance = 10000;
         this.init();
     }
