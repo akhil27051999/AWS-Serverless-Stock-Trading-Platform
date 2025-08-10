@@ -1,7 +1,7 @@
 # CloudFormation Templates for Retail Store Infrastructure
 
 ## Overview
-This directory contains CloudFormation templates to deploy a complete AWS infrastructure for the retail store application, including VPC networking and EKS management server.
+This directory contains CloudFormation templates to deploy a complete AWS infrastructure for the retail store application, including VPC networking and EKS management server. 
 
 ## Templates Included
 
